@@ -36,3 +36,15 @@ http://localhost:8000/admin to view the editor.
 # Run proxy
 yarn proxy
 ```
+
+### Setp 3: Deploy Live
+
+```sh
+# Deploy to Stage
+yarn deploy
+
+## Deploy to production
+yarn deploy:prod
+
+```
+
